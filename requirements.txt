@@ -1,0 +1,7 @@
+flask
+langchain
+faiss-cpu
+openai
+python-dotenv
+beautifulsoup4
+
